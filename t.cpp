@@ -6,6 +6,6 @@ using namespace std;
 
 int main(void)
 {
- cout<<"Hello,git"<<endl<<"Hello,Dimas";
+ cout<<"Hello,git"<<endl<<"Hello,Dimas"<<endl<<"Changes in Git";
   return 0;
 }
